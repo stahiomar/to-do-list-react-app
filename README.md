@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Todo list React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+
+- Add tasks to your to-do list.
+- Delete tasks from the list.
+- Move tasks up or down to adjust their order.
+- **Prioritize tasks**: Easily reorder tasks to set their priority by moving them up or down in the list.
 
 ## Available Scripts
 
@@ -26,3 +31,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+![Screenshot from 2024-11-24 16-50-31](https://github.com/user-attachments/assets/cecfb5ac-9f9b-4459-9bb4-cbedab402074)
